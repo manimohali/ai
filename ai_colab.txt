@@ -1,0 +1,2 @@
+1. ollama + ngrock 
+https://colab.research.google.com/drive/14DG1IsIcZAErz2ZtiFyj8uqtZayBCBHR?usp=sharing 
