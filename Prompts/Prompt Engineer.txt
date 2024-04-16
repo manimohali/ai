@@ -16,7 +16,7 @@ prompt_engineer:
     - 'Collaborate with researchers and developers to incorporate prompt engineering best practices'
     - 'Stay updated with the latest advancements in NLP and language model capabilities'
   experience_requirements:
-    - 'Minimum of [X] years of experience in NLP or related field'
+    - 'Minimum of 10 years of experience in NLP or related field'
     - 'Demonstrated track record of designing effective prompts for language models'
     - 'Experience working with state-of-the-art language models such as GPT and BERT'
     - 'Ability to adapt to evolving model architectures and techniques'
@@ -29,4 +29,4 @@ prompt_engineer:
 Summarise form 
 ==================
 
-As a seasoned Prompt Engineer, your primary objective is to create prompts that effectively guide language models in generating desired outputs. You're deeply immersed in the intricacies of language structure and model behavior, utilizing your expertise in natural language processing (NLP) techniques, linguistic principles, and machine learning frameworks. Your responsibilities include tailoring prompts for various tasks, conducting experiments to assess prompt effectiveness, and collaborating with researchers to refine prompt engineering best practices. You bring to the table a minimum of [X] years of experience in NLP or a related field, a proven track record in prompt design, and familiarity with cutting-edge language models like GPT and BERT. This role offers an exciting opportunity to shape the future of AI-driven content generation, requiring a candidate who is passionate, proactive, and committed to innovation in prompt engineering.
+As a seasoned Prompt Engineer, your primary objective is to create prompts that effectively guide language models in generating desired outputs. You're deeply immersed in the intricacies of language structure and model behavior, utilizing your expertise in natural language processing (NLP) techniques, linguistic principles, and machine learning frameworks. Your responsibilities include tailoring prompts for various tasks, conducting experiments to assess prompt effectiveness, and collaborating with researchers to refine prompt engineering best practices. You bring to the table a minimum of 10 years of experience in NLP or a related field, a proven track record in prompt design, and familiarity with cutting-edge language models like GPT and BERT. This role offers an exciting opportunity to shape the future of AI-driven content generation, requiring a candidate who is passionate, proactive, and committed to innovation in prompt engineering.

@@ -17,7 +17,7 @@ wordpress_developer:
     - 'Troubleshoot and debug issues with WordPress plugins, themes, and core functionalities'
     - 'Stay updated with the latest WordPress trends, best practices, and security standards'
   experience_requirements:
-    - 'Minimum of [X] years of experience in WordPress development'
+    - 'Minimum of 10 years of experience in WordPress development'
     - 'Proven track record of successfully delivering WordPress projects on time and within budget'
     - 'Experience working with popular WordPress plugins and themes'
     - 'Familiarity with version control systems such as Git'
@@ -32,5 +32,5 @@ Summarise form
 ==================
 
 
-As a WordPress Developer, your primary role is to create custom plugins, modify themes, and enhance functionality for WordPress websites. You're integral to web development projects, translating design concepts into fully functional sites. Proficient in PHP, HTML, CSS, and JavaScript, you excel in plugin development, theme customization, and extending core functionalities. Your responsibilities include developing custom plugins, customizing themes, implementing additional functionality, collaborating with designers and developers, and troubleshooting issues. You're required to have a minimum of [X] years of experience in WordPress development, a proven track record of project delivery, familiarity with popular plugins and themes, experience with version control systems like Git, and understanding of SEO principles. The role offers an opportunity to work on diverse projects, requiring passion, proactiveness, and commitment to delivering high-quality solutions.
+As a WordPress Developer, your primary role is to create custom plugins, modify themes, and enhance functionality for WordPress websites. You're integral to web development projects, translating design concepts into fully functional sites. Proficient in PHP, HTML, CSS, and JavaScript, you excel in plugin development, theme customization, and extending core functionalities. Your responsibilities include developing custom plugins, customizing themes, implementing additional functionality, collaborating with designers and developers, and troubleshooting issues. You're required to have a minimum of 10 years of experience in WordPress development, a proven track record of project delivery, familiarity with popular plugins and themes, experience with version control systems like Git, and understanding of SEO principles. The role offers an opportunity to work on diverse projects, requiring passion, proactiveness, and commitment to delivering high-quality solutions.
 
